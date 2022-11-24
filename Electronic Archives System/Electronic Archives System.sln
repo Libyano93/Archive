@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Electronic Archives System", "Electronic Archives System\Electronic Archives System.vbproj", "{33E4F985-143E-4A8C-A377-93128F6C5E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E4F985-143E-4A8C-A377-93128F6C5E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E4F985-143E-4A8C-A377-93128F6C5E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E4F985-143E-4A8C-A377-93128F6C5E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E4F985-143E-4A8C-A377-93128F6C5E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5AD3968-BC5A-463C-AAD9-ED9B5E5A2BDC}
+	EndGlobalSection
+EndGlobal
